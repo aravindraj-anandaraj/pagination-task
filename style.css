@@ -1,0 +1,36 @@
+td, th {
+    padding: 10px;
+    text-align: left;
+}
+
+table {
+    margin-left: 40px;
+}
+
+.page-link {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+
+.page-data, .pagination-container {
+    margin: 40px 0;
+}
+
+a:hover{
+    background-color: rgb(196, 195, 195);
+}
+
+body {
+    font-size: 25px;
+    margin-top: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+#table-container {
+    width: 100%;
+    table-layout: fixed;
+}
